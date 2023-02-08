@@ -1,0 +1,17 @@
+*{
+    font-family: 'Sofia Sans', sans-serif;
+}
+
+a{
+    font-weight: 600 !important;
+}
+a:hover{
+    color: rgb(148, 148, 148) !important;
+}
+#btn{
+    color: white;
+}
+#btn:hover{
+    color: white !important;
+    background-color: hsl(12, 88%, 69%) !important;
+}
